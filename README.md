@@ -1,3 +1,3 @@
 # 6060_GitHub
 BSAN 6060 GitHub folder
-This is my brand new git hub readme page for 6060 git hub.
+These files are for CA-01. It contains the train and test csv files, the data description for the data, and the ipnyb file for the assignment itself.
